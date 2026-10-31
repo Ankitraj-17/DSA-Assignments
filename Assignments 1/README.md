@@ -2,12 +2,6 @@
 
 **Course:** DSA-II (SFT AY 2026-27 B.Tech CSE)  
 **Topic:** Two-Pointer Technique (Slow/Fast Pointers & Opposite-End Pointers)  
-**Student Name:** [Your Name]  
-**Roll Number:** [Your Roll No]  
-**Division / Batch:** [Your Division]  
-**Date:** October 31, 2026  
-
----
 
 ## 1. Assignment Overview
 
